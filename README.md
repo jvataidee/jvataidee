@@ -17,3 +17,6 @@ Você pode encontrar mais sobre mim e meu trabalho no meu [site](https://www.joa
 ## 📄 Currículo
 
 Se você quiser saber mais detalhes sobre minha experiência profissional e minhas habilidades, confira meu [currículo](https://www.joaoataide.com/_files/ugd/bdd7cb_92c7f235f5f34721925732ffa8256765.pdf).
+
+## Linkedin
+Se quiser entrar em contato comigo ou acompanhar meu trabalho esse é meu [linkedin](https://www.linkedin.com/in/joaoataidee/)
