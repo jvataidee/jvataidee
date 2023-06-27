@@ -8,7 +8,7 @@ Além disso, contribuí para o desenvolvimento de uma solução de integração 
 
 ## 📘 Ebook
 
-Lancei um ebook gratuito chamado "O Guia Definitivo para Visão Computacional com Imagens de Satélite". Este livro oferece informações valiosas e atualizadas sobre a combinação de Visão Computacional e Imagens de Satélite. Você pode baixá-lo [aqui](https://www.joaoataide.com/ebook).
+Lancei um ebook gratuito chamado "O Guia Definitivo para Visão Computacional com Imagens de Satélites". Este livro oferece informações valiosas e atualizadas sobre a combinação de Visão Computacional e Imagens de Satélite. Você pode baixá-lo [aqui](https://www.joaoataide.com/ebook).
 
 ## 🌐 Site
 
