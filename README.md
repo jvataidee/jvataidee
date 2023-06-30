@@ -1,8 +1,8 @@
 # Olá, sou João Ataíde 👋
 
-Sou engenheiro com habilidades em Visão Computacional, com experiência no desenvolvimento de algoritmos de processamento de imagem, detecção de objetos, reconhecimento facial e visão estéreo. Tenho conhecimento em técnicas de deep learning, redes neurais convolucionais e arquiteturas de rede para aplicações de Visão Computacional.
+Sou Cientista de Dados e Engenheiro de Visão Computacional, com experiência no desenvolvimento de algoritmos de processamento de imagem, detecção de objetos, reconhecimento facial e visão estéreo. Tenho conhecimento em técnicas de deep learning, redes neurais convolucionais e arquiteturas de rede para aplicações de Visão Computacional.
 
-Atualmente, trabalho na Imagem Esri como Cientista de Dados e Engenheiro de Visão Computacional, onde implementei com sucesso vários modelos de Machine Learning e Deep Learning para análise de dados espaciais. Desenvolvi um modelo de Machine Learning espacial para prever fraudes e conexões ilegais em ligações prediais, resultando em retornos financeiros significativos para as empresas de distribuição.
+Atualmente, trabalho na Imagem Esri, onde implementei com sucesso vários modelos de Machine Learning e Deep Learning para análise de dados espaciais. Desenvolvi um modelo de Machine Learning espacial para prever fraudes e conexões ilegais em ligações prediais, resultando em retornos financeiros significativos para as empresas de distribuição.
 
 Além disso, contribuí para o desenvolvimento de uma solução de integração e execução automática de modelos de Deep Learning em imagens de satélite, melhorando a eficiência de nossos sistemas de análise.
 
