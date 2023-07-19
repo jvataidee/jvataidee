@@ -24,6 +24,7 @@ Se você quiser saber mais detalhes sobre minha experiência profissional e minh
 - [Spatial Data Sience](https://github.com/jvataidee/SpatialDataSience)
 - [Computer Vision](https://github.com/jvataidee/ComputerVision)
 - [Machine Learning](https://github.com/jvataidee/MachineLearning)
+- [Object Tracking with YOLOR](https://github.com/jvataidee/ObjectTrackingYOLOR)
 - [Processamento Digital de Imagens de Satélites com Python](https://github.com/jvataidee/pdi_python)
 
 
