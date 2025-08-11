@@ -1,11 +1,6 @@
 # Olá, sou João Ataíde 👋
 
 Sou Cientista de Dados e Engenheiro de Visão Computacional, com experiência no desenvolvimento de algoritmos de processamento de imagem, detecção de objetos, reconhecimento facial e visão estéreo. Tenho conhecimento em técnicas de deep learning, redes neurais convolucionais e arquiteturas de rede para aplicações de Visão Computacional.
-
-Atualmente, trabalho na Imagem Esri, onde implementei com sucesso vários modelos de Machine Learning e Deep Learning para análise de dados espaciais. Desenvolvi um modelo de Machine Learning espacial para prever fraudes e conexões ilegais em ligações prediais, resultando em retornos financeiros significativos para as empresas de distribuição.
-
-Além disso, contribuí para o desenvolvimento de uma solução de integração e execução automática de modelos de Deep Learning em imagens de satélite, melhorando a eficiência de nossos sistemas de análise.
-
 ## 📘 Ebook
 
 Lancei um ebook gratuito chamado "O Guia Definitivo para Visão Computacional com Imagens de Satélites". Este livro oferece informações valiosas e atualizadas sobre a combinação de Visão Computacional e Imagens de Satélite. Você pode baixá-lo [aqui](https://www.joaoataide.com/ebook).
