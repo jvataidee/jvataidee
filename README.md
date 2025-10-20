@@ -11,7 +11,7 @@ Você pode encontrar mais sobre mim e meu trabalho no meu [site](https://www.joa
 
 ## Projetos Principais aqui no GitHUB
 - [Computer Vision 101](https://github.com/jvataidee/ComputerVision101)
-- [Spatial Data Science](https://github.com/jvataidee/SpatialDataSience)
+- [Spatial Data Science](https://github.com/jvataidee/SpatialDataScience)
 - [Computer Vision](https://github.com/jvataidee/ComputerVision)
 - [Machine Learning](https://github.com/jvataidee/MachineLearning)
 - [Object Tracking with YOLOR](https://github.com/jvataidee/ObjectTrackingYOLOR)
