@@ -9,12 +9,7 @@ Lancei um ebook gratuito chamado "O Guia Definitivo para Visão Computacional co
 
 Você pode encontrar mais sobre mim e meu trabalho no meu [site](https://www.joaoataide.com/).
 
-## 📄 Currículo
-
-Se você quiser saber mais detalhes sobre minha experiência profissional e minhas habilidades, confira meu [currículo](https://www.joaoataide.com/_files/ugd/bdd7cb_92c7f235f5f34721925732ffa8256765.pdf).
-
 ## Projetos Principais aqui no GitHUB
-- [Manualde Analise de Dados Python](https://github.com/jvataidee/ManualdeAnalisedeDadosPython)
 - [Computer Vision 101](https://github.com/jvataidee/ComputerVision101)
 - [Spatial Data Sience](https://github.com/jvataidee/SpatialDataSience)
 - [Computer Vision](https://github.com/jvataidee/ComputerVision)
