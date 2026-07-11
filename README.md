@@ -36,6 +36,7 @@ Lancei um ebook gratuito chamado **"O Guia Definitivo para Visão Computacional 
 
 | Projeto | Descrição |
 |---|---|
+| [Ciência de Dados Geoespaciais com R](https://github.com/jvataidee/ciencia-dados-geoespaciais-com-r) | Estudos e projetos de ciência de dados geoespaciais utilizando R |
 | [Manual de Análise de Dados em Python](https://github.com/jvataidee/ManualdeAnalisedeDadosPython) | Conversões em Python de exercícios e exemplos de um manual de análise estatística de dados |
 | [Computer Vision 101](https://github.com/jvataidee/ComputerVision101) | Introdução prática a conceitos e técnicas de Visão Computacional |
 | [Spatial Data Science](https://github.com/jvataidee/SpatialDataScience) | Ciência de dados aplicada a dados geoespaciais |
