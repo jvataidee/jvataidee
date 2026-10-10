@@ -36,6 +36,7 @@ Lancei um ebook gratuito chamado **"O Guia Definitivo para Visão Computacional 
 
 | Projeto | Descrição |
 |---|---|
+| [AutoHybTS]([https://github.com/jvataidee/ciencia-dados-geoespaciais-com-r](https://autohybts.readthedocs.io/)) | Automated Hybrid Time Series Forecasting. AutoHybTS é uma biblioteca Python de código aberto que automatiza a comparação de modelos de previsão e a descoberta de sistemas híbridos residuais. |
 | [Ciência de Dados Geoespaciais com R](https://github.com/jvataidee/ciencia-dados-geoespaciais-com-r) | Estudos e projetos de ciência de dados geoespaciais utilizando R |
 | [Manual de Análise de Dados em Python](https://github.com/jvataidee/ManualdeAnalisedeDadosPython) | Conversões em Python de exercícios e exemplos de um manual de análise estatística de dados |
 | [Computer Vision 101](https://github.com/jvataidee/ComputerVision101) | Introdução prática a conceitos e técnicas de Visão Computacional |
